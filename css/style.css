@@ -1,0 +1,19 @@
+h1{
+    color:#ff0000;
+    font-size: 2rem;
+}
+header{
+    background-color:#faebd6;
+    width: 75%;
+    height: 28em;
+}
+#tekst1{
+    color:#a42423;
+    font-size: 2em;
+    width: 100%;
+}
+#tekst2{
+    color: #00008f;
+    font-size: 2em;
+    width: 100%;
+}
